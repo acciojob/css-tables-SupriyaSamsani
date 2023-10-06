@@ -4,9 +4,9 @@
 	border-radius:5px;
 	padding:0.5rem;
 }
-.maintab:nth-child(odd){
+tr:nth-child(even){
 	background-color:#f2f2f2;
 }
-.maintab:nth-child(even) {
+tr:nth-child(odd) {
 	background-color:#ffffff;
 }
